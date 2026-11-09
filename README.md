@@ -1,9 +1,3 @@
-README.md — Ready to Paste
-
-This version matches MidiNote-1.html exactly. It drops the claims that aren't backed by the artifact, keeps the honest "what is / isn't checked" section, and points testers at the Self-test button.
-
----
-
 ```markdown
 # MidiNote
 
